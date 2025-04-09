@@ -6,3 +6,7 @@ Disallow:
 
 User-agent: Googlebot-Image
 Disallow:
+
+
+
+Sitemap: https://linda-aos-40.desconto-no-curso.com.br/sitemap.xml
